@@ -50,3 +50,10 @@ button {
 .contant {
     margin-top: 250px;
 }
+@media only screen and (max-width: 600px) {
+    body {
+        background-size:280%;
+        
+        
+    }
+  }
